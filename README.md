@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **arturnicolauwork@gmail.com**
 
-- ⚡ Fun fact **I love playong games as much as making them**
+- ⚡ Fun fact **I love playing games as much as making them**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
