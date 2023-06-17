@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Final Project (PAP)**
 
-- 🌱 I’m currently learning **Unity, TypeScript, C#, Lit Elements**
+- 🌱 I’m currently learning **Unity, APS . NET Core, C#**
 
 - 📫 How to reach me **arturnicolauwork@gmail.com**
 
