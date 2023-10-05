@@ -1,4 +1,5 @@
-
+<h1 align="center">Hi 👋, I'm Artur Nicolau</h1>
+<h3 align="center">I have a Programing Professional Degree and wnat to be a Game Developer</h3>
 
 [![](https://visitcount.itsvg.in/api?id=NicsGames008&icon=0&color=0)](https://visitcount.itsvg.in)
 
