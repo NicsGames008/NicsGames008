@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicsgames008&label=Profile%20views&color=0e75b6&style=flat" alt="nicsgames008" /> </p>
 
-- 🔭 I’m currently working on **Final Project (PAP)**
+- 🔭 I’m currently working on **Getting my Game Dev Degree**
 
-- 🌱 I’m currently learning **Unity, APS . NET Core, C#**
+- 🌱 I’m currently learning **Lua, LOVE 2d**
 
 - 📫 How to reach me **arturnicolauwork@gmail.com**
 
