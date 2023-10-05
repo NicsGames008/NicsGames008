@@ -1,3 +1,7 @@
+
+
+[![](https://visitcount.itsvg.in/api?id=NicsGames008&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on mu Game Dev Dergee<br>🌱 I’m currently learning Lua and Loe2D<br>💬 Ask me about how the Universe was created :)<br>⚡ Fun fact  I love playing games as much as making them
 
@@ -14,8 +18,5 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=NicsGames008&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
