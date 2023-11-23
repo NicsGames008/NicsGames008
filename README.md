@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Artur Nicolau</h1>
-<h3 align="center">I have a Programing Professional Degree and wnat to be a Game Developer</h3>
+<h3 align="center">I have a Programing Professional Degree and want to be a Game Developer</h3>
 
 [![](https://visitcount.itsvg.in/api?id=NicsGames008&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 I’m currently working on mu Game Dev Degree<br>🌱 I’m currently learning Lua and Loe2D<br>💬 Ask me about how the Universe was created :)<br>⚡ Fun fact  I love playing games as much as making them
+🔭 I’m currently working on my Game Dev Degree<br>🌱 I’m currently learning Lua and Love2D<br>💬 Ask me about how the Universe was created :)<br>⚡ Fun fact  I love playing games as much as making them
 
 
 ## 🌐 Socials:
